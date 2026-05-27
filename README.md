@@ -45,9 +45,7 @@ Dataset contains labeled news articles categorized as:
 ---
 
 ##  Model Accuracy
-Accuracy achieved: XX%
-
-(Replace XX with your actual accuracy)
+Accuracy achieved : 96.7
 
 ---
 
